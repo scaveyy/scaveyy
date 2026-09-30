@@ -14,6 +14,7 @@ I design for review paths, audit records and safe deployment: solutions versione
 
 | Repo | What it shows |
 |---|---|
+| [power-platform-patterns](https://github.com/scaveyy/power-platform-patterns) | Power Fx, flow and pac/ALM patterns for production Power Platform work |
 | [document-routing-demo](https://github.com/scaveyy/document-routing-demo) | Routing with duplicate checks and a human review path |
 | [approval-reminder-demo](https://github.com/scaveyy/approval-reminder-demo) | Approvals and reminders without silent state changes |
 | [source-verified-search-demo](https://github.com/scaveyy/source-verified-search-demo) | Search that only returns results with a checkable source |
